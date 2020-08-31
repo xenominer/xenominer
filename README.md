@@ -14,6 +14,7 @@ The retail release of the game is required to test and debug, you must copy over
 1. Install prerequisites: 
 - Microsoft XNA Framework Redistributable 4.0 `https://www.microsoft.com/en-us/download/details.aspx?id=20914` 
 - Microsoft XNA SDK 4.0 Refresh `https://www.microsoft.com/en-us/download/details.aspx?id=27599` 
+- Games For Windows Live (GFWL) `https://go.microsoft.com/fwlink/?LinkID=201134` 
 - Microsoft Visual Studio 2015 or 2017 `https://visualstudio.microsoft.com/vs/older-downloads/`
 2. Clone the repo from: `git clone https://github.com/xenominer/xenominer.git`
 3. Copy assets to working source directory `Content`

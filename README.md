@@ -1,3 +1,4 @@
+<!---
 # ✨ Xenominer
 
 ## Disclaimer 
@@ -28,5 +29,16 @@ Only windows is supported for now.
 
 Pull requests are welcome. For major changes, please open an issue first to
 discuss what you would like to change.
+
+⚡ Project Discord: https://discord.gg/nnWuxx
+--->
+
+# ✨ Xenominer (Windows Version)
+
+## Disclaimer 
+- This is a preservation project and by no means an official repo from its creator.
+- None of the current source we are working on will be made available at this time.
+- This repo will never include game assets, You will need a retail copy of the game.
+- There are plans to support Linux and Mac, No runners will be needed to make this work.
 
 ⚡ Project Discord: https://discord.gg/nnWuxx
